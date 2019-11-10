@@ -1,27 +1,29 @@
-# MySecondScript-cs-kilian
+# MyThirdScript-cs-kilian
 
-#### Developement Platform: 
+### Developement Platform: 
 Windows 10, Unity version 2019.1.14f1, Visual Studio Code Version 1.31.1 
 
-#### Description: 
+### Description: 
 
 This project schould teach us:
 * The git/Github worklflow aswell as writing meaningfull Radme Files.
 * Writing a Debug message in combination with strings and integers. As well as declaring intergers.
 
-#### Target Platform:
+### Target Platform:
 
 WebGL (refRes: 1280x720) 
 
 ### Screenshot: 
 
 <div>
-<img src = "./Scnreenshots/home-pic-playmode-mythirdscript-addnumbers-cs-kilian.jpg" width = "500">
+<img src = "./Scnreenshots/home-pic-playmode-mythirdscript-addnumbers-cs-kilian.jpg" width = "500">s
 </div>
 
-#### Game Control: 
+
+### Game Control: 
+
 no control 
 
 
 
-## Copyright by kilian 
+### Copyright by kilian 
