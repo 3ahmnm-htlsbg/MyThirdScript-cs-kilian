@@ -15,7 +15,9 @@ WebGL (refRes: 1280x720)
 
 ### Screenshot: 
 
-TODO
+<div>
+<img src = "./Scnreenshots/home-pic-playmode-mythirdscript-addnumbers-cs-kilian.jpg" width = "500">
+</div>
 
 #### Game Control: 
 no control 
