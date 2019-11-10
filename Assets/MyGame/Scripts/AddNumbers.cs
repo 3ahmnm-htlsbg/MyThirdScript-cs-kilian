@@ -1,10 +1,8 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
+﻿using UnityEngine;
 
 public class AddNumbers : MonoBehaviour
 {
-    // Start is called before the first frame update
+ 
     void Start()
     {
         int a = 3;
@@ -13,15 +11,10 @@ public class AddNumbers : MonoBehaviour
         Debug.Log("a = " + a);
         Debug.Log("b = " + b);
         Debug.Log("a + b = " + (a + b));
-
+        
         Debug.Log("add numbers a = " + a + ", b = " + b + "; a + b = " + (a + b));
         
     }
 
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
 }
  
